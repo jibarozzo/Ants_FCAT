@@ -1,6 +1,6 @@
 # Ant Data Collection Project - FCAT Ecuador (June-July 2023)
 
-This repository contains data and documentation from a field study conducted in June and July 2023 at the FCAT research station in Ecuador. Our team, composed of instructors Thiago Fernandes and Bolívar Aponte and a cohort of undergraduate students, collected data on local ant populations to study their biodiversity and ecological roles.
+This repository contains data and documentation from a field study conducted as part of the FCAT/TIERA program course in June and July 2023 at the FCAT research station in Ecuador. Our team, composed of instructors Tiago V. Fernandes and Bolívar Aponte and a cohort of undergraduate students, collected data on local ant populations to study their biodiversity and ecological roles.
 
 ## Project Overview
 
@@ -25,6 +25,7 @@ This repository contains data and documentation from a field study conducted in 
 ## How to Use This Repository
 1. **Data Access**: Navigate to the `data/` directory to access raw data files and species lists.
 2. **Documentation**: Refer to the `docs/` directory for detailed methodology and metadata.
+3. **Presentations**: Refer to the `/presentations` directory for .pdf versions of studnet and instructor presentations.
 3. **Analysis**: Use the provided scripts in the `scripts/` directory for preliminary data analysis and visualization.
 
 ## Contributions
